@@ -1,0 +1,730 @@
+{
+    "proveedor": {
+        "nombre": "Tienda Oficial Mercado Libre",
+        "direccion": "no registrado",
+        "telefono": "no registrado",
+        "pagina": "https://listado.mercadolibre.com.uy/accesorios-vehiculos/_Tienda_pirelli"
+    },
+    "naumaticos": [
+        {
+            "nombre": "Cubierta Pirelli 175/70 R14 Scorpion Atr",
+            "precio": "US$136",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_980573-MLU76553658151_052024-E.webp"
+        },
+        {
+            "nombre": "4 Cubiertas Pirelli 185/60 Hr 15 Formula Evo",
+            "precio": "US$403",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_884762-MLU75666784214_042024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 205/60 Hr 15 P7 Cinturato",
+            "precio": "US$154",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_718802-MLU76597421254_062024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Moto Pirelli Super City 2.75-18",
+            "precio": "US$62",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_959195-MLA74780655359_022024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 175/70 Tr14 P1 Cinturato",
+            "precio": "US$102",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_659163-MLU75857529975_042024-E.webp"
+        },
+        {
+            "nombre": "4 Cubiertas Pirelli 185/70 Hr 14 Formula Evo",
+            "precio": "US$387",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_960920-MLU76561325351_052024-E.webp"
+        },
+        {
+            "nombre": "Pirelli Sport Demon 150/70 H 17 Moto - Trasera",
+            "precio": "US$160",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_798010-MLU76788646547_062024-E.webp"
+        },
+        {
+            "nombre": "De 4 Cubiertas Pirelli 175/65 Tr14 P1 Cinturato",
+            "precio": "US$406",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_872568-MLU76808430827_062024-E.webp"
+        },
+        {
+            "nombre": "Pirelli Sport Demon 130/70 S 17 Tl Tra",
+            "precio": "US$134",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_960315-MLU76802522965_062024-E.webp"
+        },
+        {
+            "nombre": "Cubierta delantera para moto Pirelli Sport Demon sin cámara de 100/80-17 H 52 x 1 unidad",
+            "precio": "US$109",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_734130-MLA74782483755_022024-E.webp"
+        },
+        {
+            "nombre": "4 Cubiertas Pirelli 195/65 Hr 15 Formula Evo",
+            "precio": "US$448",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_994250-MLU76590821100_062024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 175/65 Tr14 P1 Cinturato",
+            "precio": "US$102",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_937428-MLA40570923102_012020-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 195/65 Hr 15 P1 Cinturato",
+            "precio": "US$140",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_952215-MLU76324732494_052024-E.webp"
+        },
+        {
+            "nombre": "Cubierta delantera para moto Pirelli Sport Demon sin cámara de 110/70-17 H 54 x 1 unidad",
+            "precio": "US$124",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_912748-MLA74781547269_022024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli Super City 2.50 - 17 Tt",
+            "precio": "US$57",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_669526-MLU73079728585_112023-E.webp"
+        },
+        {
+            "nombre": "De 4 Cubiertas Pirelli 205/60 R15 Scorpion Atr",
+            "precio": "US$723US$650,7010% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_656322-MLU76369642040_052024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 195/55 Hr 15 P7 Cinturato",
+            "precio": "US$133",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_966433-MLU70045305460_062023-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 185/65 Hr 15 Formula Evo",
+            "precio": "US$110",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_602046-MLA43507777696_092020-E.webp"
+        },
+        {
+            "nombre": "Cubierta trasera para moto Pirelli Super City para uso sin cámara de 100/90-18 P 56 x 1 unidad",
+            "precio": "US$100",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_799373-MLA74652844758_022024-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli P7 P 205/55R16 91 V",
+            "precio": "US$159",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_630396-MLA32300745520_092019-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 195/60 Hr 15 P1 Cinturato",
+            "precio": "US$143",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_851416-MLA40683138069_022020-E.webp"
+        },
+        {
+            "nombre": "Pirelli Mt60 Enduro 110/90-17 Tt Tra",
+            "precio": "US$145",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_916833-MLU76597002878_062024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 195/50 Hr 16 P7 Cinturato",
+            "precio": "US$170",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_759234-MLU76394655848_052024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 175/70 Tr 13 Formula Evo",
+            "precio": "US$77",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_701787-MLA43115390212_082020-E.webp"
+        },
+        {
+            "nombre": "Cubierta Moto Pirelli City Demon 120/90 S 16 Trasera",
+            "precio": "US$143",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_640061-MLU76545737931_052024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 175/70 R14 Chrono",
+            "precio": "US$135",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_973090-MLA46523883946_062021-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli P400 EVO P 175/70R14 84 T",
+            "precio": "US$102",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_610781-MLA46523849663_062021-E.webp"
+        },
+        {
+            "nombre": "Cubierta trasera para moto Pirelli Diablo Scooter sin cámara de 120/70-14 P 61 x 1 unidad",
+            "precio": "US$124",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_601798-MLA43879722973_102020-E.webp"
+        },
+        {
+            "nombre": "Pirelli City Cross 90/90-18 Tl Tra",
+            "precio": "US$80",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_685219-MLU76791432335_062024-E.webp"
+        },
+        {
+            "nombre": "4 Cubiertas Pirelli 175/65 Hr 14 P400 Evo",
+            "precio": "US$403",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_624571-MLU76953867469_062024-E.webp"
+        },
+        {
+            "nombre": "De 4 Cubiertas Pirelli 175/70 Tr14 P1 Cinturato",
+            "precio": "US$410",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_838060-MLU76802563665_062024-E.webp"
+        },
+        {
+            "nombre": "4 Cubiertas Pirelli 175/70 Tr 13 Formula Evo",
+            "precio": "US$307",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_865951-MLU76515970605_052024-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Scorpion All Terrain Plus LT 265/65R17 112 T",
+            "precio": "US$1.338",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_911325-MLU73686206013_122023-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 265/70 R16 Scorpion A/t",
+            "precio": "US$294",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_979161-MLU76790941405_062024-E.webp"
+        },
+        {
+            "nombre": "Llanta 110/90-17 City Cross Tt Pirelli 60p",
+            "precio": "US$149",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_887337-MLU72857147506_112023-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Scorpion AT+ 265/70R16 112 T",
+            "precio": "US$1.178",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_915032-MLU73685408377_122023-E.webp"
+        },
+        {
+            "nombre": "Cubierta trasera para moto Metzeler Karoo Street sin cámara de 150/70R17 V 69 x 1 unidad",
+            "precio": "US$404",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_972198-MLA43680147580_102020-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli Formula Evo P 185/60R15 88 H",
+            "precio": "US$101",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_794801-MLA46524031473_062021-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Cinturato P7 P 195/55R15 85 H",
+            "precio": "US$531",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_971604-MLU74077781282_012024-E.webp"
+        },
+        {
+            "nombre": "Pirelli Super City 90/90-18 Moto - Trasera",
+            "precio": "US$67",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_641860-MLU76552025203_052024-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli Formula Evo P 195/65R15 91 H",
+            "precio": "US$112",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_703756-MLA44492041349_012021-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Scorpion Verde P 215/65R16 102 H",
+            "precio": "US$832",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_831148-MLU72456207486_102023-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli P7 P 205/55R16 91 W",
+            "precio": "US$228",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_630396-MLA32300745520_092019-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Scorpion S-AT+ 235/70R16 106 T",
+            "precio": "US$957",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_701825-MLU73686134417_122023-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Scorpion ATR LT 265/75R16 123 S",
+            "precio": "US$1.248",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_760669-MLU72456207536_102023-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Chrono C 175/65R14 90/88 T",
+            "precio": "US$512",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_995493-MLU74753128593_022024-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli Mt60 100/90-19 57h Tl",
+            "precio": "US$130",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_982740-MLU73783073032_012024-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli Formula Evo P 185/70R14 88 H",
+            "precio": "US$97",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_630050-MLA44665311817_012021-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 175/70 R14 Scorpion Atr",
+            "precio": "US$136",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_980573-MLU76553658151_052024-E.webp"
+        },
+        {
+            "nombre": "4 Cubiertas Pirelli 185/60 Hr 15 Formula Evo",
+            "precio": "US$403",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_884762-MLU75666784214_042024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 205/60 Hr 15 P7 Cinturato",
+            "precio": "US$154",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_718802-MLU76597421254_062024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Moto Pirelli Super City 2.75-18",
+            "precio": "US$62",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_959195-MLA74780655359_022024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 175/70 Tr14 P1 Cinturato",
+            "precio": "US$102",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_659163-MLU75857529975_042024-E.webp"
+        },
+        {
+            "nombre": "4 Cubiertas Pirelli 185/70 Hr 14 Formula Evo",
+            "precio": "US$387",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_960920-MLU76561325351_052024-E.webp"
+        },
+        {
+            "nombre": "Pirelli Sport Demon 150/70 H 17 Moto - Trasera",
+            "precio": "US$160",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_798010-MLU76788646547_062024-E.webp"
+        },
+        {
+            "nombre": "De 4 Cubiertas Pirelli 175/65 Tr14 P1 Cinturato",
+            "precio": "US$406",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_872568-MLU76808430827_062024-E.webp"
+        },
+        {
+            "nombre": "Pirelli Sport Demon 130/70 S 17 Tl Tra",
+            "precio": "US$134",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_960315-MLU76802522965_062024-E.webp"
+        },
+        {
+            "nombre": "Cubierta delantera para moto Pirelli Sport Demon sin cámara de 100/80-17 H 52 x 1 unidad",
+            "precio": "US$109",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_734130-MLA74782483755_022024-E.webp"
+        },
+        {
+            "nombre": "4 Cubiertas Pirelli 195/65 Hr 15 Formula Evo",
+            "precio": "US$448",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_994250-MLU76590821100_062024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 175/65 Tr14 P1 Cinturato",
+            "precio": "US$102",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_937428-MLA40570923102_012020-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 195/65 Hr 15 P1 Cinturato",
+            "precio": "US$140",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_952215-MLU76324732494_052024-E.webp"
+        },
+        {
+            "nombre": "Cubierta delantera para moto Pirelli Sport Demon sin cámara de 110/70-17 H 54 x 1 unidad",
+            "precio": "US$124",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_912748-MLA74781547269_022024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli Super City 2.50 - 17 Tt",
+            "precio": "US$57",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_669526-MLU73079728585_112023-E.webp"
+        },
+        {
+            "nombre": "De 4 Cubiertas Pirelli 205/60 R15 Scorpion Atr",
+            "precio": "US$723US$650,7010% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_656322-MLU76369642040_052024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 195/55 Hr 15 P7 Cinturato",
+            "precio": "US$133",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_966433-MLU70045305460_062023-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 185/65 Hr 15 Formula Evo",
+            "precio": "US$110",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_602046-MLA43507777696_092020-E.webp"
+        },
+        {
+            "nombre": "Cubierta trasera para moto Pirelli Super City para uso sin cámara de 100/90-18 P 56 x 1 unidad",
+            "precio": "US$100",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_799373-MLA74652844758_022024-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli P7 P 205/55R16 91 V",
+            "precio": "US$159",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_630396-MLA32300745520_092019-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 195/60 Hr 15 P1 Cinturato",
+            "precio": "US$143",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_851416-MLA40683138069_022020-E.webp"
+        },
+        {
+            "nombre": "Pirelli Mt60 Enduro 110/90-17 Tt Tra",
+            "precio": "US$145",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_916833-MLU76597002878_062024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 195/50 Hr 16 P7 Cinturato",
+            "precio": "US$170",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_759234-MLU76394655848_052024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 175/70 Tr 13 Formula Evo",
+            "precio": "US$77",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_701787-MLA43115390212_082020-E.webp"
+        },
+        {
+            "nombre": "Cubierta Moto Pirelli City Demon 120/90 S 16 Trasera",
+            "precio": "US$143",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_640061-MLU76545737931_052024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 175/70 R14 Chrono",
+            "precio": "US$135",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_973090-MLA46523883946_062021-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli P400 EVO P 175/70R14 84 T",
+            "precio": "US$102",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_610781-MLA46523849663_062021-E.webp"
+        },
+        {
+            "nombre": "Cubierta trasera para moto Pirelli Diablo Scooter sin cámara de 120/70-14 P 61 x 1 unidad",
+            "precio": "US$124",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_601798-MLA43879722973_102020-E.webp"
+        },
+        {
+            "nombre": "Pirelli City Cross 90/90-18 Tl Tra",
+            "precio": "US$80",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_685219-MLU76791432335_062024-E.webp"
+        },
+        {
+            "nombre": "4 Cubiertas Pirelli 175/65 Hr 14 P400 Evo",
+            "precio": "US$403",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_624571-MLU76953867469_062024-E.webp"
+        },
+        {
+            "nombre": "De 4 Cubiertas Pirelli 175/70 Tr14 P1 Cinturato",
+            "precio": "US$410",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_838060-MLU76802563665_062024-E.webp"
+        },
+        {
+            "nombre": "4 Cubiertas Pirelli 175/70 Tr 13 Formula Evo",
+            "precio": "US$307",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_865951-MLU76515970605_052024-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Scorpion All Terrain Plus LT 265/65R17 112 T",
+            "precio": "US$1.338",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_911325-MLU73686206013_122023-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 265/70 R16 Scorpion A/t",
+            "precio": "US$294",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_979161-MLU76790941405_062024-E.webp"
+        },
+        {
+            "nombre": "Llanta 110/90-17 City Cross Tt Pirelli 60p",
+            "precio": "US$149",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_887337-MLU72857147506_112023-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Scorpion AT+ 265/70R16 112 T",
+            "precio": "US$1.178",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_915032-MLU73685408377_122023-E.webp"
+        },
+        {
+            "nombre": "Cubierta trasera para moto Metzeler Karoo Street sin cámara de 150/70R17 V 69 x 1 unidad",
+            "precio": "US$404",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_972198-MLA43680147580_102020-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli Formula Evo P 185/60R15 88 H",
+            "precio": "US$101",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_794801-MLA46524031473_062021-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Cinturato P7 P 195/55R15 85 H",
+            "precio": "US$531",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_971604-MLU74077781282_012024-E.webp"
+        },
+        {
+            "nombre": "Pirelli Super City 90/90-18 Moto - Trasera",
+            "precio": "US$67",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_641860-MLU76552025203_052024-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli Formula Evo P 195/65R15 91 H",
+            "precio": "US$112",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_703756-MLA44492041349_012021-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Scorpion Verde P 215/65R16 102 H",
+            "precio": "US$832",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_831148-MLU72456207486_102023-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli P7 P 205/55R16 91 W",
+            "precio": "US$228",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_630396-MLA32300745520_092019-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Scorpion S-AT+ 235/70R16 106 T",
+            "precio": "US$957",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_701825-MLU73686134417_122023-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Scorpion ATR LT 265/75R16 123 S",
+            "precio": "US$1.248",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_760669-MLU72456207536_102023-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Chrono C 175/65R14 90/88 T",
+            "precio": "US$512",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_995493-MLU74753128593_022024-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli Mt60 100/90-19 57h Tl",
+            "precio": "US$130",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_982740-MLU73783073032_012024-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli Formula Evo P 185/70R14 88 H",
+            "precio": "US$97",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_630050-MLA44665311817_012021-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 175/70 R14 Scorpion Atr",
+            "precio": "US$136",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_980573-MLU76553658151_052024-E.webp"
+        },
+        {
+            "nombre": "4 Cubiertas Pirelli 185/60 Hr 15 Formula Evo",
+            "precio": "US$403",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_884762-MLU75666784214_042024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 205/60 Hr 15 P7 Cinturato",
+            "precio": "US$154",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_718802-MLU76597421254_062024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Moto Pirelli Super City 2.75-18",
+            "precio": "US$62",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_959195-MLA74780655359_022024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 175/70 Tr14 P1 Cinturato",
+            "precio": "US$102",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_659163-MLU75857529975_042024-E.webp"
+        },
+        {
+            "nombre": "4 Cubiertas Pirelli 185/70 Hr 14 Formula Evo",
+            "precio": "US$387",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_960920-MLU76561325351_052024-E.webp"
+        },
+        {
+            "nombre": "Pirelli Sport Demon 150/70 H 17 Moto - Trasera",
+            "precio": "US$160",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_798010-MLU76788646547_062024-E.webp"
+        },
+        {
+            "nombre": "De 4 Cubiertas Pirelli 175/65 Tr14 P1 Cinturato",
+            "precio": "US$406",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_872568-MLU76808430827_062024-E.webp"
+        },
+        {
+            "nombre": "Pirelli Sport Demon 130/70 S 17 Tl Tra",
+            "precio": "US$134",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_960315-MLU76802522965_062024-E.webp"
+        },
+        {
+            "nombre": "Cubierta delantera para moto Pirelli Sport Demon sin cámara de 100/80-17 H 52 x 1 unidad",
+            "precio": "US$109",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_734130-MLA74782483755_022024-E.webp"
+        },
+        {
+            "nombre": "4 Cubiertas Pirelli 195/65 Hr 15 Formula Evo",
+            "precio": "US$448",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_994250-MLU76590821100_062024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 175/65 Tr14 P1 Cinturato",
+            "precio": "US$102",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_937428-MLA40570923102_012020-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 195/65 Hr 15 P1 Cinturato",
+            "precio": "US$140",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_952215-MLU76324732494_052024-E.webp"
+        },
+        {
+            "nombre": "Cubierta delantera para moto Pirelli Sport Demon sin cámara de 110/70-17 H 54 x 1 unidad",
+            "precio": "US$124",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_912748-MLA74781547269_022024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli Super City 2.50 - 17 Tt",
+            "precio": "US$57",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_669526-MLU73079728585_112023-E.webp"
+        },
+        {
+            "nombre": "De 4 Cubiertas Pirelli 205/60 R15 Scorpion Atr",
+            "precio": "US$723US$650,7010% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_656322-MLU76369642040_052024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 195/55 Hr 15 P7 Cinturato",
+            "precio": "US$133",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_966433-MLU70045305460_062023-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 185/65 Hr 15 Formula Evo",
+            "precio": "US$110",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_602046-MLA43507777696_092020-E.webp"
+        },
+        {
+            "nombre": "Cubierta trasera para moto Pirelli Super City para uso sin cámara de 100/90-18 P 56 x 1 unidad",
+            "precio": "US$100",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_799373-MLA74652844758_022024-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli P7 P 205/55R16 91 V",
+            "precio": "US$159",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_630396-MLA32300745520_092019-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 195/60 Hr 15 P1 Cinturato",
+            "precio": "US$143",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_851416-MLA40683138069_022020-E.webp"
+        },
+        {
+            "nombre": "Pirelli Mt60 Enduro 110/90-17 Tt Tra",
+            "precio": "US$145",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_916833-MLU76597002878_062024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 195/50 Hr 16 P7 Cinturato",
+            "precio": "US$170",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_759234-MLU76394655848_052024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 175/70 Tr 13 Formula Evo",
+            "precio": "US$77",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_701787-MLA43115390212_082020-E.webp"
+        },
+        {
+            "nombre": "Cubierta Moto Pirelli City Demon 120/90 S 16 Trasera",
+            "precio": "US$143",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_640061-MLU76545737931_052024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 175/70 R14 Chrono",
+            "precio": "US$135",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_973090-MLA46523883946_062021-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli P400 EVO P 175/70R14 84 T",
+            "precio": "US$102",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_610781-MLA46523849663_062021-E.webp"
+        },
+        {
+            "nombre": "Cubierta trasera para moto Pirelli Diablo Scooter sin cámara de 120/70-14 P 61 x 1 unidad",
+            "precio": "US$124",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_601798-MLA43879722973_102020-E.webp"
+        },
+        {
+            "nombre": "Pirelli City Cross 90/90-18 Tl Tra",
+            "precio": "US$80",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_685219-MLU76791432335_062024-E.webp"
+        },
+        {
+            "nombre": "4 Cubiertas Pirelli 175/65 Hr 14 P400 Evo",
+            "precio": "US$403",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_624571-MLU76953867469_062024-E.webp"
+        },
+        {
+            "nombre": "De 4 Cubiertas Pirelli 175/70 Tr14 P1 Cinturato",
+            "precio": "US$410",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_838060-MLU76802563665_062024-E.webp"
+        },
+        {
+            "nombre": "4 Cubiertas Pirelli 175/70 Tr 13 Formula Evo",
+            "precio": "US$307",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_865951-MLU76515970605_052024-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Scorpion All Terrain Plus LT 265/65R17 112 T",
+            "precio": "US$1.338",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_911325-MLU73686206013_122023-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 265/70 R16 Scorpion A/t",
+            "precio": "US$294",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_979161-MLU76790941405_062024-E.webp"
+        },
+        {
+            "nombre": "Llanta 110/90-17 City Cross Tt Pirelli 60p",
+            "precio": "US$149",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_887337-MLU72857147506_112023-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Scorpion AT+ 265/70R16 112 T",
+            "precio": "US$1.178",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_915032-MLU73685408377_122023-E.webp"
+        },
+        {
+            "nombre": "Cubierta trasera para moto Metzeler Karoo Street sin cámara de 150/70R17 V 69 x 1 unidad",
+            "precio": "US$404",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_972198-MLA43680147580_102020-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli Formula Evo P 185/60R15 88 H",
+            "precio": "US$101",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_794801-MLA46524031473_062021-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Cinturato P7 P 195/55R15 85 H",
+            "precio": "US$531",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_971604-MLU74077781282_012024-E.webp"
+        },
+        {
+            "nombre": "Pirelli Super City 90/90-18 Moto - Trasera",
+            "precio": "US$67",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_641860-MLU76552025203_052024-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli Formula Evo P 195/65R15 91 H",
+            "precio": "US$112",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_703756-MLA44492041349_012021-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Scorpion Verde P 215/65R16 102 H",
+            "precio": "US$832",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_831148-MLU72456207486_102023-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli P7 P 205/55R16 91 W",
+            "precio": "US$228",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_630396-MLA32300745520_092019-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Scorpion S-AT+ 235/70R16 106 T",
+            "precio": "US$957",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_701825-MLU73686134417_122023-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Scorpion ATR LT 265/75R16 123 S",
+            "precio": "US$1.248",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_760669-MLU72456207536_102023-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Pirelli Chrono C 175/65R14 90/88 T",
+            "precio": "US$512",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_995493-MLU74753128593_022024-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli Mt60 100/90-19 57h Tl",
+            "precio": "US$130",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_982740-MLU73783073032_012024-E.webp"
+        },
+        {
+            "nombre": "Neumático Pirelli Formula Evo P 185/70R14 88 H",
+            "precio": "US$97",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_630050-MLA44665311817_012021-E.webp"
+        }
+    ]
+}

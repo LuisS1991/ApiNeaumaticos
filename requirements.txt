@@ -1,0 +1,6 @@
+reflex==0.5.10
+beautifulsoup4==4.12.3
+requests==2.32.3
+bcrypt==4.2.0
+PyJWT==2.9.0
+passlib==24.1

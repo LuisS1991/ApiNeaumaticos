@@ -1,0 +1,115 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width"/><title>documentacion api</title><meta content="favicon.ico" property="og:image"/><meta name="next-head-count" content="4"/><link rel="preload" href="/_next/static/css/396c5a3cc9343e47.css" as="style" crossorigin=""/><link rel="stylesheet" href="/_next/static/css/396c5a3cc9343e47.css" crossorigin="" data-n-g=""/><link rel="preload" href="/_next/static/css/f2c285b6c43f087a.css" as="style" crossorigin=""/><link rel="stylesheet" href="/_next/static/css/f2c285b6c43f087a.css" crossorigin="" data-n-p=""/><noscript data-n-css=""></noscript><script defer="" crossorigin="" nomodule="" src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js"></script><script src="/_next/static/chunks/webpack-9b1685437b787edf.js" defer="" crossorigin=""></script><script src="/_next/static/chunks/framework-2ac3ce78c144388a.js" defer="" crossorigin=""></script><script src="/_next/static/chunks/main-d7bcef5db986c4ba.js" defer="" crossorigin=""></script><script src="/_next/static/chunks/pages/_app-226e90525081d3d8.js" defer="" crossorigin=""></script><script src="/_next/static/chunks/175675d1-5ecc990e41b8b71e.js" defer="" crossorigin=""></script><script src="/_next/static/chunks/43534-83fa3101ce94cb55.js" defer="" crossorigin=""></script><script src="/_next/static/chunks/65695-2f008b4a949663cc.js" defer="" crossorigin=""></script><script src="/_next/static/chunks/pages/docs-e548d3e498f5b2f8.js" defer="" crossorigin=""></script><script src="/_next/static/LW5Dk_9w4fxmFDf0uErz0/_buildManifest.js" defer="" crossorigin=""></script><script src="/_next/static/LW5Dk_9w4fxmFDf0uErz0/_ssgManifest.js" defer="" crossorigin=""></script></head><body><div id="__next"><script>!function(){try{var d=document.documentElement,c=d.classList;c.remove('light','dark');var e=localStorage.getItem('chakra-ui-color-mode');if('system'===e||(!e&&true)){var t='(prefers-color-scheme: dark)',m=window.matchMedia(t);if(m.media!==t||m.matches){d.style.colorScheme = 'dark';c.add('dark')}else{d.style.colorScheme = 'light';c.add('light')}}else if(e){c.add(e|| '')}if(e==='light'||e==='dark')d.style.colorScheme=e}catch(e){}}()</script><div data-is-root-theme="true" data-accent-color="blue" data-gray-color="slate" data-has-background="true" data-panel-background="translucent" data-radius="medium" data-scaling="100%" class="radix-themes css-0"><style data-emotion="css 17rg0dp">.css-17rg0dp{position:fixed;width:100vw;height:0;}</style><div title="Connection Error: " class="css-17rg0dp"></div><style data-emotion="css 56tzch">.css-56tzch{margin-top:1em;margin-bottom:1em;}</style><p class="rt-Text css-56tzch">  <em>Esta herramienta digital forma parte del proyecto de fin de curso de 3er año del bachillerato de Soporte y Desarrollo Informático del <strong>Instituto Técnico Superior Arias Balparda</strong>. Puedes conocer más sobre el proyecto en <style data-emotion="css c02sx5">.css-c02sx5{font-weight:bold;-webkit-text-decoration:underline;text-decoration:underline;text-decoration-color:var(--accent-10);}.css-c02sx5:hover{color:var(--accent-8);}</style><a data-accent-color="" href="https://its.utu.edu.uy/wp-content/uploads/sites/33/2024/06/Proyecto-3o-EMT-Enfasis-Soporte-2024-3.pdf" class="rt-Text rt-reset rt-Link rt-underline-auto css-c02sx5">  <!-- -->its.utu.edu.uy</a></em></p>
+<style data-emotion="css jzlc08">.css-jzlc08{margin-top:0.5em;margin-bottom:0.5em;}</style><h1 level="1" class="rt-Heading rt-r-size-6 rt-r-ta-center css-jzlc08">  <!-- -->API Naumaticos</h1>
+<p class="rt-Text rt-r-ta-center css-56tzch">  <img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p>
+<h2 level="2" class="rt-Heading rt-r-size-5 css-jzlc08">  <!-- -->Tabla de contenidos:</h2>
+<hr/>
+<style data-emotion="css 1gwk6pf">.css-1gwk6pf{list-style-type:disc;margin-top:1em;margin-bottom:1em;margin-left:1.5rem;list-style-position:outside;direction:column;}</style><ul class="css-1gwk6pf">  <!-- -->
+<li class="css-jzlc08">  <a data-accent-color="" href="#api" class="rt-Text rt-reset rt-Link rt-underline-auto css-c02sx5">  <!-- -->API</a></li>
+<li class="css-jzlc08">  <a data-accent-color="" href="#idea-del-proyecto" class="rt-Text rt-reset rt-Link rt-underline-auto css-c02sx5">  <!-- -->Idea del proyecto</a></li>
+<li class="css-jzlc08">  <a data-accent-color="" href="#gu%C3%ADa-de-uso" class="rt-Text rt-reset rt-Link rt-underline-auto css-c02sx5">  <!-- -->Guía de uso</a></li>
+<li class="css-jzlc08">  <a data-accent-color="" href="#informaci%C3%B3n-adicional" class="rt-Text rt-reset rt-Link rt-underline-auto css-c02sx5">  <!-- -->Información adicional</a></li>
+<li class="css-jzlc08">  <a data-accent-color="" href="#licencia" class="rt-Text rt-reset rt-Link rt-underline-auto css-c02sx5">  <!-- -->Licencia</a></li>
+<li class="css-jzlc08">  <a data-accent-color="" href="#limitaci%C3%B3n-de-responsabilidades" class="rt-Text rt-reset rt-Link rt-underline-auto css-c02sx5">  <!-- -->Limitación de responsabilidades</a></li>
+</ul>
+<h2 level="2" class="rt-Heading rt-r-size-5 css-jzlc08">  <!-- -->Api</h2>
+<hr/>
+<p class="rt-Text css-56tzch">  <!-- -->API o Application Programming Interface, que en español quiere decir Interfaz de Programación de Aplicaciones, es un conjunto de funciones y procedimientos que permite integrar sistemas, permitiendo que sus funcionalidades puedan ser reutilizadas por otras aplicaciones o software</p>
+<h2 level="2" class="rt-Heading rt-r-size-5 css-jzlc08">  <!-- -->Idea del proyecto</h2>
+<p class="rt-Text css-56tzch">  <!-- -->La idea surge como una necesidad del proyecto principal el cual estamos desarrollando que trata de un Software de administración para un parking con gomeria. Donde nuestro cliente solicita
+alguna forma que el sistema obtenga los precios de neumaticos de sus 3 principales proveedores. Analizando los datos es como llegamos a crear el siguiente servicio web</p>
+<hr/>
+<div align="center">
+<h3 level="3" class="rt-Heading rt-r-size-4 css-jzlc08">  <strong>✨ Api craeada con  Python  y deploy in RailWai. ✨</strong></h3>
+<img src="https://badge.fury.io/py/reflex.svg" alt="PyPI version"/>
+
+
+<img src="https://img.shields.io/pypi/pyversions/reflex.svg" alt="versions"/>
+
+
+<img src="https://img.shields.io/badge/Documentation%20-Introduction%20-%20%23007ec6" alt="Documentation"/>
+
+
+<img src="https://img.shields.io/badge/version-0.0.1-blue" alt="version"/>
+</div>
+<h2 level="2" class="rt-Heading rt-r-size-5 css-jzlc08">  <!-- -->Guía de uso</h2>
+<hr/>
+<p class="rt-Text css-56tzch">  <!-- -->Fomra de utilizarla es mediante el protocolo de comunicación http mediante el verbo GET. accedemos mediante una petición a la ruta original agegando la marca del neumatico que nuestro cliente trabaja</p>
+<ul class="css-1gwk6pf">  <!-- -->
+<li class="css-jzlc08">  <!-- -->la ruta principal de nuestra api es la siguiente: <a data-accent-color="" href="https://apineumaticos-production.up.railway.app" class="rt-Text rt-reset rt-Link rt-underline-auto css-c02sx5">  <!-- -->https://apineumaticos-production.up.railway.app</a></li>
+<li class="css-jzlc08">  <!-- -->/pirelli</li>
+<li class="css-jzlc08">  <!-- -->/bridgestone</li>
+<li class="css-jzlc08">  <!-- -->/michelin</li>
+</ul>
+<p class="rt-Text css-56tzch">  <!-- -->estas peticiones nos retornara un json con datos del proveedor y una lista de neumatico, a continuacion daremos un ejemplo</p>
+<pre><pre class="css-56tzch" style="background:hsl(220, 13%, 18%);color:hsl(220, 14%, 71%);text-shadow:0 1px rgba(0, 0, 0, 0.3);font-family:&quot;Fira Code&quot;, &quot;Fira Mono&quot;, Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;direction:ltr;text-align:left;white-space:pre;word-spacing:normal;word-break:normal;line-height:1.5;-moz-tab-size:2;-o-tab-size:2;tab-size:2;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none;padding:1em;margin:0.5em 0;overflow:auto;border-radius:0.3em;margin-top:1em;margin-bottom:1em"><code class="language-text" style="background:hsl(220, 13%, 18%);color:hsl(220, 14%, 71%);text-shadow:0 1px rgba(0, 0, 0, 0.3);font-family:&quot;Fira Code&quot;, &quot;Fira Mono&quot;, Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;direction:ltr;text-align:left;white-space:pre;word-spacing:normal;word-break:normal;line-height:1.5;-moz-tab-size:2;-o-tab-size:2;tab-size:2;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none">{
+   &quot;proveedor&quot;:{
+
+      &quot;proveedor&quot;:&quot;RASA&quot;,
+
+      &quot;direccion&quot;:&quot;Agraciada 2720&quot;,
+
+      &quot;telefono&quot;:&quot;2203 4449&quot;,
+
+      &quot;pagina&quot;&quot;:&quot;&quot;https&quot;://listado.mercadolibre.com.uy/accesorios-vehiculos/neumaticos/_CustId_227678069?item_id=MLU615508682&amp;category_id=MLU208676&amp;seller_id=227678069&amp;client=recoview-selleritems&amp;recos_listing=true#applied_filter_id%3Dcategory%26applied_filter_name%3DCategor%C3%ADas%26applied_filter_order%3D3%26applied_value_id%3DMLU208675%26applied_value_name%3DNeum%C3%A1ticos%26applied_value_order%3D1%26applied_value_results%3D195%26is_custom%3Dfalse&quot;
+
+    },
+
+&quot;naumaticos&quot;:
+    [
+        {&quot;&quot;nombre&quot;&quot;:&quot;Neumático Bridgestone Ecopia EP150 P 185/55R16 83 V&quot;,&quot;&quot;precio&quot;&quot;:&quot;US$145,
+
+      80&quot;,&quot;&quot;img&quot;&quot;:null},
+
+        {&quot;&quot;nombre&quot;&quot;:&quot;Neumático Bridgestone Dueler H/P Sport 225/55R18 98 H&quot;,&quot;&quot;precio&quot;&quot;:&quot;US$277,
+
+      20&quot;,&quot;&quot;img&quot;&quot;:null},
+
+        {&quot;&quot;nombre&quot;&quot;:&quot;Neumático Bridgestone Dueler H/T 684 215/65R16 98 T&quot;,&quot;&quot;precio&quot;&quot;:&quot;US$197,
+
+      10&quot;,&quot;&quot;img&quot;&quot;:&quot;&quot;https&quot;://http2.mlstatic.com/D_Q_NP_2X_745136-MLA46524062203_062021-V.webp&quot;},{&quot;&quot;nombre&quot;&quot;:&quot;Neumático Bridgestone B-Series B250 185/65R15 88 H&quot;,&quot;&quot;precio&quot;&quot;:&quot;US$130,
+
+      50&quot;,&quot;&quot;img&quot;&quot;:&quot;&quot;https&quot;://http2.mlstatic.com/D_Q_NP_2X_693038-MLU75071023744_032024-V.webp&quot;},{&quot;&quot;nombre&quot;&quot;:&quot;Neumático Firestone Destination A/T LT 235/75R15 104 S&quot;,&quot;&quot;precio&quot;&quot;:&quot;US$239,
+
+      40&quot;,&quot;&quot;img&quot;&quot;:&quot;&quot;https&quot;://http2.mlstatic.com/D_Q_NP_2X_916917-MLA50056205969_052022-V.webp&quot;},
+
+        {&quot;&quot;nombre&quot;&quot;:&quot;Neumático Bridgestone Turanza Er300 195/65 R15 91 H&quot;,&quot;&quot;precio&quot;&quot;:&quot;US$154,
+
+      80&quot;,&quot;&quot;img&quot;&quot;:&quot;&quot;https&quot;://http2.mlstatic.com/D_Q_NP_2X_706450-MLU75108443021_032024-V.webp&quot;},
+
+        {&quot;&quot;nombre&quot;&quot;:&quot;Neumático Bridgestone Turanza T001 205/55 R16&quot;,&quot;&quot;precio&quot;&quot;:&quot;US$166,
+
+      50&quot;,&quot;&quot;img&quot;&quot;:&quot;&quot;https&quot;://http2.mlstatic.com/D_Q_NP_2X_630330-MLU74368553026_022024-V.webp&quot;},
+
+        {&quot;&quot;nombre&quot;&quot;:&quot;Neumático Firestone Cv5000 185 R14 102/100 R&quot;,&quot;&quot;precio&quot;&quot;:&quot;US$153&quot;,&quot;&quot;img&quot;&quot;:&quot;&quot;https&quot;://http2.mlstatic.com/D_Q_NP_2X_617629-MLU76141981853_052024-V.webp&quot;}
+    ]
+
+}
+</code></pre></pre>
+<h3 level="3" class="rt-Heading rt-r-size-4 css-jzlc08">  <!-- -->Dependencias</h3>
+<p class="rt-Text css-56tzch">  <!-- -->Esta api esta constrida con python y el framework de <a data-accent-color="" href="https://astro.build/" class="rt-Text rt-reset rt-Link rt-underline-auto css-c02sx5">  <!-- -->Reflex</a> el cual es un potente marco de trabajo para crar aplicaciones web completas.
+Se puede desarrollar el frontend como backend incluyendo construcción de Api.Por debajo utiliza la tecnologia de fast api para la cración de servicios web.</p>
+<p class="rt-Text css-56tzch">  <!-- -->Despligue de la aplicación en la plataforma <a data-accent-color="" href="https://railway.app" class="rt-Text rt-reset rt-Link rt-underline-auto css-c02sx5">  <!-- -->RailWai</a> que nos ofrece una capa gratis para poder alojar nuestro pequeño proyecto.
+La capa gratuita es de:</p>
+<ul class="css-1gwk6pf">  <!-- -->
+<li class="css-jzlc08">  <!-- -->$5 dolares</li>
+<li class="css-jzlc08">  <!-- -->512 MB of RAM per Container</li>
+<li class="css-jzlc08">  <!-- -->1 GB of Shared Disk</li>
+<li class="css-jzlc08">  <!-- -->2 vCPU per Container</li>
+</ul>
+<h2 level="2" class="rt-Heading rt-r-size-5 css-jzlc08">  <!-- -->Autor/es</h2>
+<hr/>
+<p class="rt-Text css-56tzch">  <!-- -->Idea original intengrantes del grupo Téchene, autor de la herramienta y despliege <a data-accent-color="" href="https://github.com/LuisS1991/" class="rt-Text rt-reset rt-Link rt-underline-auto css-c02sx5">  <!-- -->Luis</a></p>
+<h2 level="2" class="rt-Heading rt-r-size-5 css-jzlc08">  <!-- -->Información adicional</h2>
+<hr/>
+<p class="rt-Text css-56tzch">  <!-- -->Nuestro proyecto cuenta con la creación de una empresa de desarrollo de software e insfractructura de red.
+Este proyecto ocupa todo los aspectos tecnicos necesarios para creación y puesta en marcha de un producto de software, que incluye la parte tan importante como el desarrollo que es la insfrastructura de red y su seguiridad.
+Nuestra Empresa es <a data-accent-color="" href="techne-tau.vercel.app" class="rt-Text rt-reset rt-Link rt-underline-auto css-c02sx5">  <!-- -->Téchene</a>, este sitio web fue creado con la tecnologia de <a data-accent-color="" href="https://reflex.dev/" class="rt-Text rt-reset rt-Link rt-underline-auto css-c02sx5">  <!-- -->Astro</a>, un marco de trabajo para frontend.</p>
+<h2 level="2" class="rt-Heading rt-r-size-5 css-jzlc08">  <!-- -->Licencia</h2>
+<hr/>
+<p class="rt-Text css-56tzch">  <!-- -->i. La licencia esta herramientas es gratis para usos educativos.
+ii. No se puede utilizar con fines comerciales, en ese caso puede contactarse al autor y crear una version de pago</p>
+<h2 level="2" class="rt-Heading rt-r-size-5 css-jzlc08">  <!-- -->Limitación de responsabilidades</h2>
+<hr/>
+<p class="rt-Text css-56tzch">  <!-- -->El ITS y los integrantes del grupo no será responsable, bajo circunstancia alguna, de daño ni indemnización, moral o patrimonial; directo o indirecto; accesorio o especial; o por vía de consecuencia, previsto o imprevisto, que pudiese surgir:</p>
+<p class="rt-Text css-56tzch">  <!-- -->i. Bajo cualquier teoría de responsabilidad, ya sea por contrato, infracción de derechos de propiedad intelectual, negligencia o bajo cualquier otra teoría; y/o</p>
+<p class="rt-Text css-56tzch">  <!-- -->ii. A raíz del uso de la Herramienta Digital, incluyendo, pero sin limitación de potenciales defectos en la Herramienta Digital, o la pérdida o inexactitud de los datos de cualquier tipo. Lo anterior incluye los gastos o daños asociados a fallas de comunicación y/o fallas de funcionamiento de computadoras, vinculados con la utilización de la Herramienta Digital.</p></div></div><script id="__NEXT_DATA__" type="application/json" crossorigin="">{"props":{"pageProps":{}},"page":"/docs","query":{},"buildId":"LW5Dk_9w4fxmFDf0uErz0","nextExport":true,"autoExport":true,"isFallback":false,"scriptLoader":[]}</script></body></html>
