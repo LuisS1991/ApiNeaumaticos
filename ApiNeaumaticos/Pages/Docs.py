@@ -62,24 +62,24 @@ def Docs() -> rx.Component:
         rx.container(
             rx.flex(
                 rx.text(
-                    "Ruta Principal: https://apineumaticos-production.up.railway.app",
+                    "Ruta Principal: https://apineumaticos-production.up.railway.app/proveedor",
                     size="5",
                 ),
                 rx.link(
                     "/pirelli",
-                    href="https://apineumaticos-production.up.railway.app/pirelli",
+                    href="https://apineumaticos-production.up.railway.app/proveedor/pirelli",
                     is_external=True,
                     size="5",
                 ),
                 rx.link(
                     "/bridgestone",
-                    href="https://apineumaticos-production.up.railway.app/bridgestone",
+                    href="https://apineumaticos-production.up.railway.app/proveedor/bridgestone",
                     is_external=True,
                     size="5",
                 ),
                 rx.link(
                     "/michelin",
-                    href="https://apineumaticos-production.up.railway.app/michelin",
+                    href="https://apineumaticos-production.up.railway.app/proveedor/michelin",
                     is_external=True,
                     size="5",
                 ),
