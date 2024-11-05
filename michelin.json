@@ -1,0 +1,490 @@
+{
+    "proveedor": {
+        "nombre": "BARTL",
+        "direccion": "Agraciada 2370",
+        "telefono": "2924 1608",
+        "pagina": "https://tienda.mercadolibre.com.uy/bartl"
+    },
+    "naumaticos": [
+        {
+            "nombre": "Cubierta 185/65/15 88 H Bl-026 Bartl Neumáticos",
+            "precio": "US$74,99US$65,9912% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_941750-MLU73567146199_122023-E.webp"
+        },
+        {
+            "nombre": "Neumático Goodyear 175/70 R14 Assurance Maxlife Índice de velocidad T",
+            "precio": "US$146US$10726% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_758728-MLU73836731290_012024-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos BARTL Neumáticos BARTL AUTO BL-026 P 175/65R14 86 T",
+            "precio": "US$254,95US$215,9615% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_916143-MLU76324274708_052024-E.webp"
+        },
+        {
+            "nombre": "Cubierta 175/70/13 Bartl X2 Neumáticos",
+            "precio": "US$119,98US$105,9811% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_749476-MLU75335342971_032024-E.webp"
+        },
+        {
+            "nombre": "Kit de 2 neumáticos BARTL Neumáticos BL-601 P 175/70R14 84 T",
+            "precio": "US$129,98US$113,9812% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_610903-MLU76808431713_062024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 175/70 R14 Scorpion Atr",
+            "precio": "US$170",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_980573-MLU76553658151_052024-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Bartl A609 P 175/70R13 82 T",
+            "precio": "US$239,95US$211,9611% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_617287-MLU73473426130_122023-E.webp"
+        },
+        {
+            "nombre": "Cubierta 175/70/13 Bartl Neumáticos",
+            "precio": "US$59,99US$52,9911% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_704996-MLU73470865556_122023-E.webp"
+        },
+        {
+            "nombre": "Cubierta 185/60/15 Bartl Neumáticos",
+            "precio": "US$73,74US$64,9911% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_620453-MLU75148974219_032024-E.webp"
+        },
+        {
+            "nombre": "Llanta 150/60-17 66h Tubeless Diablo Rosso Iii Pirelli",
+            "precio": "US$212US$169,6020% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_661261-MLU74984265716_032024-E.webp"
+        },
+        {
+            "nombre": "Bartl A609 P 165/70R13 79 T",
+            "precio": "US$239,95US$191,9620% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_643647-MLU73554201089_122023-E.webp"
+        },
+        {
+            "nombre": "Neumático Toyo Tires Proxes TR1 P 195/55R15 85 V",
+            "precio": "US$138US$11516% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_647283-MLU74111669946_012024-E.webp"
+        },
+        {
+            "nombre": "Juego De Llantas Pirelli 2.75-18 Y 90/90-18 Super City Sc",
+            "precio": "$5.279$4.22419% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_802291-MLU70160363827_062023-E.webp"
+        },
+        {
+            "nombre": "Cubierta Moto Pirelli Super City 90/90-18",
+            "precio": "US$68US$54,4020% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_712309-MLU74226366535_012024-E.webp"
+        },
+        {
+            "nombre": "Neumático Torque TQ021 P 185/60R14 82 H",
+            "precio": "US$67,49US$58,9912% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_667849-MLA45654291138_042021-E.webp"
+        },
+        {
+            "nombre": "Bartl A609 P 165/70R13 79 T",
+            "precio": "US$109,98US$95,9812% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_811546-MLU73566751439_122023-E.webp"
+        },
+        {
+            "nombre": "BARTL Neumáticos BARTL AUTO BL-026 P 205/55R16 94 W",
+            "precio": "US$159,98US$139,9812% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_785851-MLU73685460907_122023-E.webp"
+        },
+        {
+            "nombre": "Neumático Bartl A609 P 185/65R14 86 H",
+            "precio": "US$67,49US$58,9912% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_659853-MLA50996937891_082022-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Toyo Tires Nano Energy 3 P 185/70R14 88 T",
+            "precio": "US$470US$38019% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_627621-MLU74049429218_012024-E.webp"
+        },
+        {
+            "nombre": "Cubierta trasero para moto Michelin Anakee Adventure sin cámara de 150/70R17 V 69 x 1 unidad",
+            "precio": "US$342",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_900994-MLU73128726278_122023-E.webp"
+        },
+        {
+            "nombre": "Bartl A609 P 185/65R14 86 H",
+            "precio": "US$134,98US$117,9812% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_979034-MLU73581937818_122023-E.webp"
+        },
+        {
+            "nombre": "Cubierta 165/70/13 Bartl Neumáticos",
+            "precio": "US$54,99US$47,9912% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_948567-MLU73567874843_122023-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Toyo Tires Proxes TR1 205/55R16 94 W",
+            "precio": "US$660US$52021% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_678205-MLU74668791744_022024-E.webp"
+        },
+        {
+            "nombre": " Nayasa EY-198 sin cámara de 130/70-17 P 68",
+            "precio": "$2.720$2.17620% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_909904-MLU73129706736_122023-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos BARTL Neumáticos Duralife BL-021 P 145/70R12 69 T",
+            "precio": "US$204,95US$159,9621% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_817680-MLU75150999917_032024-E.webp"
+        },
+        {
+            "nombre": "Cubierta 175/65/14 Bartl Neumáticos",
+            "precio": "US$63,74US$53,9915% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_934540-MLU75792325281_042024-E.webp"
+        },
+        {
+            "nombre": "Cubierta delantera para moto Pirelli Supersport Diablo Rosso II sin cámara de 110/70 R17 H 54 x 1 unidad",
+            "precio": "US$154US$123,2020% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_904242-MLA74779499815_022024-E.webp"
+        },
+        {
+            "nombre": "Cubierta 195/65/15 Bartl Neumáticos",
+            "precio": "US$77,49US$67,9912% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_960826-MLU74195588304_012024-E.webp"
+        },
+        {
+            "nombre": "Cubierta 215/75/15 At Bartl Neumáticos",
+            "precio": "US$124,99US$99,9920% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_768088-MLU75650618262_042024-E.webp"
+        },
+        {
+            "nombre": "Cubierta trasera para moto Pirelli Sport Demon sin cámara de 140/70-17 H 66 x 1 unidad",
+            "precio": "US$155US$115,2025% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_951360-MLU76463750618_052024-E.webp"
+        },
+        {
+            "nombre": "Neumático GT Radial Savero Komodo Mud Extreme LT 31/10.50R15 109 N",
+            "precio": "US$437",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_605282-MLU75338313534_032024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 205/60 Hr 15 P7 Cinturato",
+            "precio": "US$192",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_718802-MLU76597421254_062024-E.webp"
+        },
+        {
+            "nombre": "Neumático Toyo Tires Nano Energy 3 P 175/70R13 82 T",
+            "precio": "US$102US$7823% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_894934-MLU74221503341_012024-E.webp"
+        },
+        {
+            "nombre": "Cubierta 195/55/15 82 V Bl-026 Bartl Neumáticos",
+            "precio": "US$82,49US$66,9918% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_776141-MLU73671730731_122023-E.webp"
+        },
+        {
+            "nombre": "Cubierta Moto Pirelli Super City 2.75-18",
+            "precio": "$2.439$2.04816% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_959195-MLA74780655359_022024-E.webp"
+        },
+        {
+            "nombre": "Neumático Goodyear 205/55 R16 Eagle Sport 2 Índice de velocidad V",
+            "precio": "US$193,75US$15122% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_819659-MLU73473422980_122023-E.webp"
+        },
+        {
+            "nombre": "Neumático Torque TQ-MT701 31x10.5R15 109 Q",
+            "precio": "US$209,99US$164,9921% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_773753-MLA50223170966_062022-E.webp"
+        },
+        {
+            "nombre": "Cubierta 145/70/12 Bartl Neumáticos",
+            "precio": "US$44,99US$39,9911% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_793315-MLU73943069239_012024-E.webp"
+        },
+        {
+            "nombre": "Kit de 2 neumáticos BARTL Neumáticos BL-601 P 175/65R14 82 T",
+            "precio": "US$127,48US$107,9815% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_779597-MLU75127525457_032024-E.webp"
+        },
+        {
+            "nombre": " Nayasa EY430 de 130/90-15",
+            "precio": "$2.973$2.37919% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_983011-MLA74652650862_022024-E.webp"
+        },
+        {
+            "nombre": "Cubierta 265/75/16 Mt Pantanera Bartl",
+            "precio": "US$244,99US$202,9917% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_884956-MLU75858810979_042024-E.webp"
+        },
+        {
+            "nombre": "Cubierta 175/70/14 Bartl Neumáticos",
+            "precio": "US$68,74US$57,9915% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_715007-MLU76607409448_062024-E.webp"
+        },
+        {
+            "nombre": "Juego de neumáticos Pirelli P Cb300 Sport Demon 140/70-17 + 110/70-17 Sport Demon",
+            "precio": "US$286US$211,2026% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_828014-MLU73129407294_122023-E.webp"
+        },
+        {
+            "nombre": "Neumático Bartl Bl-206 P 205/65r15 94 V",
+            "precio": "US$96,24US$78,9917% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_615710-MLU74210271972_012024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Moto 225-16 Nayasa C/cámara Ey024 21/4-16",
+            "precio": "$1.005$80420% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_872461-MLU75711178065_042024-E.webp"
+        },
+        {
+            "nombre": "Pirelli Sport Demon 150/70 H 17 Moto - Trasera",
+            "precio": "US$170US$13620% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_798010-MLU76788646547_062024-E.webp"
+        },
+        {
+            "nombre": "Cubierta 195/60/16 Bartl Neumáticos",
+            "precio": "US$83,74US$72,9912% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_623418-MLU74412978043_022024-E.webp"
+        },
+        {
+            "nombre": "Cubierta 205/55/16 94 W Bl-026 Bartl Neumáticos",
+            "precio": "US$81,24US$69,9913% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_722956-MLU73567789911_122023-E.webp"
+        },
+        {
+            "nombre": "Cubierta 185/65/15 88 H Bl-026 Bartl Neumáticos",
+            "precio": "US$74,99US$65,9912% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_941750-MLU73567146199_122023-E.webp"
+        },
+        {
+            "nombre": "Neumático Goodyear 175/70 R14 Assurance Maxlife Índice de velocidad T",
+            "precio": "US$146US$10726% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_758728-MLU73836731290_012024-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos BARTL Neumáticos BARTL AUTO BL-026 P 175/65R14 86 T",
+            "precio": "US$254,95US$215,9615% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_916143-MLU76324274708_052024-E.webp"
+        },
+        {
+            "nombre": "Cubierta 175/70/13 Bartl X2 Neumáticos",
+            "precio": "US$119,98US$105,9811% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_749476-MLU75335342971_032024-E.webp"
+        },
+        {
+            "nombre": "Kit de 2 neumáticos BARTL Neumáticos BL-601 P 175/70R14 84 T",
+            "precio": "US$129,98US$113,9812% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_610903-MLU76808431713_062024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 175/70 R14 Scorpion Atr",
+            "precio": "US$170",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_980573-MLU76553658151_052024-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Bartl A609 P 175/70R13 82 T",
+            "precio": "US$239,95US$211,9611% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_617287-MLU73473426130_122023-E.webp"
+        },
+        {
+            "nombre": "Cubierta 175/70/13 Bartl Neumáticos",
+            "precio": "US$59,99US$52,9911% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_704996-MLU73470865556_122023-E.webp"
+        },
+        {
+            "nombre": "Cubierta 185/60/15 Bartl Neumáticos",
+            "precio": "US$73,74US$64,9911% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_620453-MLU75148974219_032024-E.webp"
+        },
+        {
+            "nombre": "Llanta 150/60-17 66h Tubeless Diablo Rosso Iii Pirelli",
+            "precio": "US$212US$169,6020% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_661261-MLU74984265716_032024-E.webp"
+        },
+        {
+            "nombre": "Bartl A609 P 165/70R13 79 T",
+            "precio": "US$239,95US$191,9620% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_643647-MLU73554201089_122023-E.webp"
+        },
+        {
+            "nombre": "Neumático Toyo Tires Proxes TR1 P 195/55R15 85 V",
+            "precio": "US$138US$11516% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_647283-MLU74111669946_012024-E.webp"
+        },
+        {
+            "nombre": "Juego De Llantas Pirelli 2.75-18 Y 90/90-18 Super City Sc",
+            "precio": "$5.279$4.22419% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_802291-MLU70160363827_062023-E.webp"
+        },
+        {
+            "nombre": "Cubierta Moto Pirelli Super City 90/90-18",
+            "precio": "US$68US$54,4020% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_712309-MLU74226366535_012024-E.webp"
+        },
+        {
+            "nombre": "Neumático Torque TQ021 P 185/60R14 82 H",
+            "precio": "US$67,49US$58,9912% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_667849-MLA45654291138_042021-E.webp"
+        },
+        {
+            "nombre": "Bartl A609 P 165/70R13 79 T",
+            "precio": "US$109,98US$95,9812% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_811546-MLU73566751439_122023-E.webp"
+        },
+        {
+            "nombre": "BARTL Neumáticos BARTL AUTO BL-026 P 205/55R16 94 W",
+            "precio": "US$159,98US$139,9812% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_785851-MLU73685460907_122023-E.webp"
+        },
+        {
+            "nombre": "Neumático Bartl A609 P 185/65R14 86 H",
+            "precio": "US$67,49US$58,9912% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_659853-MLA50996937891_082022-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Toyo Tires Nano Energy 3 P 185/70R14 88 T",
+            "precio": "US$470US$38019% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_627621-MLU74049429218_012024-E.webp"
+        },
+        {
+            "nombre": "Cubierta trasero para moto Michelin Anakee Adventure sin cámara de 150/70R17 V 69 x 1 unidad",
+            "precio": "US$342",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_900994-MLU73128726278_122023-E.webp"
+        },
+        {
+            "nombre": "Bartl A609 P 185/65R14 86 H",
+            "precio": "US$134,98US$117,9812% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_979034-MLU73581937818_122023-E.webp"
+        },
+        {
+            "nombre": "Cubierta 165/70/13 Bartl Neumáticos",
+            "precio": "US$54,99US$47,9912% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_948567-MLU73567874843_122023-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos Toyo Tires Proxes TR1 205/55R16 94 W",
+            "precio": "US$660US$52021% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_678205-MLU74668791744_022024-E.webp"
+        },
+        {
+            "nombre": " Nayasa EY-198 sin cámara de 130/70-17 P 68",
+            "precio": "$2.720$2.17620% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_909904-MLU73129706736_122023-E.webp"
+        },
+        {
+            "nombre": "Kit de 4 neumáticos BARTL Neumáticos Duralife BL-021 P 145/70R12 69 T",
+            "precio": "US$204,95US$159,9621% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_817680-MLU75150999917_032024-E.webp"
+        },
+        {
+            "nombre": "Cubierta 175/65/14 Bartl Neumáticos",
+            "precio": "US$63,74US$53,9915% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_934540-MLU75792325281_042024-E.webp"
+        },
+        {
+            "nombre": "Cubierta delantera para moto Pirelli Supersport Diablo Rosso II sin cámara de 110/70 R17 H 54 x 1 unidad",
+            "precio": "US$154US$123,2020% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_904242-MLA74779499815_022024-E.webp"
+        },
+        {
+            "nombre": "Cubierta 195/65/15 Bartl Neumáticos",
+            "precio": "US$77,49US$67,9912% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_960826-MLU74195588304_012024-E.webp"
+        },
+        {
+            "nombre": "Cubierta 215/75/15 At Bartl Neumáticos",
+            "precio": "US$124,99US$99,9920% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_768088-MLU75650618262_042024-E.webp"
+        },
+        {
+            "nombre": "Cubierta trasera para moto Pirelli Sport Demon sin cámara de 140/70-17 H 66 x 1 unidad",
+            "precio": "US$155US$115,2025% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_951360-MLU76463750618_052024-E.webp"
+        },
+        {
+            "nombre": "Neumático GT Radial Savero Komodo Mud Extreme LT 31/10.50R15 109 N",
+            "precio": "US$437",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_605282-MLU75338313534_032024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Pirelli 205/60 Hr 15 P7 Cinturato",
+            "precio": "US$192",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_718802-MLU76597421254_062024-E.webp"
+        },
+        {
+            "nombre": "Neumático Toyo Tires Nano Energy 3 P 175/70R13 82 T",
+            "precio": "US$102US$7823% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_894934-MLU74221503341_012024-E.webp"
+        },
+        {
+            "nombre": "Cubierta 195/55/15 82 V Bl-026 Bartl Neumáticos",
+            "precio": "US$82,49US$66,9918% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_776141-MLU73671730731_122023-E.webp"
+        },
+        {
+            "nombre": "Cubierta Moto Pirelli Super City 2.75-18",
+            "precio": "$2.439$2.04816% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_959195-MLA74780655359_022024-E.webp"
+        },
+        {
+            "nombre": "Neumático Goodyear 205/55 R16 Eagle Sport 2 Índice de velocidad V",
+            "precio": "US$193,75US$15122% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_819659-MLU73473422980_122023-E.webp"
+        },
+        {
+            "nombre": "Neumático Torque TQ-MT701 31x10.5R15 109 Q",
+            "precio": "US$209,99US$164,9921% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_773753-MLA50223170966_062022-E.webp"
+        },
+        {
+            "nombre": "Cubierta 145/70/12 Bartl Neumáticos",
+            "precio": "US$44,99US$39,9911% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_793315-MLU73943069239_012024-E.webp"
+        },
+        {
+            "nombre": "Kit de 2 neumáticos BARTL Neumáticos BL-601 P 175/65R14 82 T",
+            "precio": "US$127,48US$107,9815% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_779597-MLU75127525457_032024-E.webp"
+        },
+        {
+            "nombre": " Nayasa EY430 de 130/90-15",
+            "precio": "$2.973$2.37919% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_983011-MLA74652650862_022024-E.webp"
+        },
+        {
+            "nombre": "Cubierta 265/75/16 Mt Pantanera Bartl",
+            "precio": "US$244,99US$202,9917% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_884956-MLU75858810979_042024-E.webp"
+        },
+        {
+            "nombre": "Cubierta 175/70/14 Bartl Neumáticos",
+            "precio": "US$68,74US$57,9915% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_715007-MLU76607409448_062024-E.webp"
+        },
+        {
+            "nombre": "Juego de neumáticos Pirelli P Cb300 Sport Demon 140/70-17 + 110/70-17 Sport Demon",
+            "precio": "US$286US$211,2026% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_828014-MLU73129407294_122023-E.webp"
+        },
+        {
+            "nombre": "Neumático Bartl Bl-206 P 205/65r15 94 V",
+            "precio": "US$96,24US$78,9917% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_615710-MLU74210271972_012024-E.webp"
+        },
+        {
+            "nombre": "Cubierta Moto 225-16 Nayasa C/cámara Ey024 21/4-16",
+            "precio": "$1.005$80420% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_872461-MLU75711178065_042024-E.webp"
+        },
+        {
+            "nombre": "Pirelli Sport Demon 150/70 H 17 Moto - Trasera",
+            "precio": "US$170US$13620% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_798010-MLU76788646547_062024-E.webp"
+        },
+        {
+            "nombre": "Cubierta 195/60/16 Bartl Neumáticos",
+            "precio": "US$83,74US$72,9912% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_623418-MLU74412978043_022024-E.webp"
+        },
+        {
+            "nombre": "Cubierta 205/55/16 94 W Bl-026 Bartl Neumáticos",
+            "precio": "US$81,24US$69,9913% OFF",
+            "img": "https://http2.mlstatic.com/D_Q_NP_2X_722956-MLU73567789911_122023-E.webp"
+        }
+    ]
+}
