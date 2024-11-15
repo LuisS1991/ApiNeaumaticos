@@ -1,6 +1,6 @@
 import json
 from fastapi import APIRouter, Depends, HTTPException, status
-from fastapi.responses import RedirectResponse
+from fastapi.responses import RedirectResponse,FileResponse
 from ApiNeaumaticos.Api.AuthJtw import valid_user
 
 from ApiNeaumaticos.Servicios import (
@@ -60,3 +60,6 @@ def read_file(path) -> json:
     with open(path, "r", encoding="UTF-8") as data:
         response = json.load(data)
         return response
+
+async def eticket():
+    return FileResponse("Data/ticket.pdf",status_code=status.HTTP_200_OK)
