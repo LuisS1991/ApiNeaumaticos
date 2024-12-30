@@ -5,7 +5,7 @@ config = rx.Config(
     db_url="sqlite:///reflexUser.db",
     cors_allowed_origins=[
         "http://localhost:3000",
-        "https://api-neaumaticos-nrki5r7k4-luiss1991s-projects.vercel.app/",
+        "https://api-neaumaticos.vercel.app",
     ],
 )
 """
