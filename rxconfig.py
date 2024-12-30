@@ -1,9 +1,12 @@
 import reflex as rx
 
 config = rx.Config(
-    app_name="ApiNeaumaticos", 
+    app_name="ApiNeaumaticos",
     db_url="sqlite:///reflexUser.db",
-    api_url="https://apineaumaticos-production.up.railway.app"
+    cors_allowed_origins=[
+        "http://localhost:3000",
+        "https://api-neaumaticos-nrki5r7k4-luiss1991s-projects.vercel.app/",
+    ],
 )
 """
     api_url="https://apineumaticos-production.up.railway.app" https://apineaumaticos-production.up.railway.app/proveedor/pirelli
