@@ -21,12 +21,15 @@ API o Application Programming Interface, que en español quiere decir Interfaz d
 ## Idea del proyecto
 
 La idea surge como una necesidad del proyecto principal el cual estamos desarrollando que trata de un Software de administración para un parking con gomeria. Donde nuestro cliente solicita 
-alguna forma que el sistema obtenga los precios de neumaticos de sus 3 principales proveedores. Analizando los datos es como llegamos a crear el siguiente servicio web
+alguna forma que el sistema obtenga los precios de neumaticos de sus 3 principales proveedores. Analizando los datos es como llegamos a crear el siguiente servicio web. Agregando una capa de complejidad al proyecto 
+complementario se decidio que la api utilizara un jwt de autentificación. El mismo se obtiene de la web app que fue creada para administrar usuarios y jwt.- 
+Dicha pagina web cuenta con un login donde se puede crear, actualizar o eliminar el JWT. Asi mismo este token tiene un tiempo de expiración configurable. A fines educativos se configuro a 1 año.- 
+Como funciones extras a futuro se pensaba implementar algun sistema de conteo de peticione diarias a fin de evitar algun sobre costo en el servicio.- 
 
 ---
 <div align="center">
 
-### **✨ Api craeada con  Python  y deploy in RailWai. ✨**
+### **✨ Api craeada con  Python  y deploy in Railway. ✨**
 ![PyPI version](https://badge.fury.io/py/reflex.svg)
 ![versions](https://img.shields.io/pypi/pyversions/reflex.svg)
 ![Documentation](https://img.shields.io/badge/Documentation%20-Introduction%20-%20%23007ec6)
@@ -36,12 +39,14 @@ alguna forma que el sistema obtenga los precios de neumaticos de sus 3 principal
 
 ## Guía de uso
 ---
+Se debe autentificar en al aplicación web y obtener un token de autentificación, el cual sera agregado en las cabecera de las peticiones.-
+
 Fomra de utilizarla es mediante el protocolo de comunicación http mediante el verbo GET. accedemos mediante una petición a la ruta original agegando la marca del neumatico que nuestro cliente trabaja
 * la ruta principal de nuestra api es la siguiente: https://apineumaticos-production.up.railway.app
 * /pirelli
 * /bridgestone
 * /michelin 
-
+* en las peticiones se debe adjuntar un JWT, el cual proporciona una capa de seguridad al web service.
 estas peticiones nos retornara un json con datos del proveedor y una lista de neumatico, a continuacion daremos un ejemplo
 
 ```
