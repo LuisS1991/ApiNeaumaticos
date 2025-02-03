@@ -33,7 +33,7 @@ Como funciones extras a futuro se pensaba implementar algun sistema de conteo de
 ![PyPI version](https://badge.fury.io/py/reflex.svg)
 ![versions](https://img.shields.io/pypi/pyversions/reflex.svg)
 ![Documentation](https://img.shields.io/badge/Documentation%20-Introduction%20-%20%23007ec6)
-![version](https://img.shields.io/badge/version-0.0.1-blue)
+![version](https://img.shields.io/badge/version-0.2.1-blue)
 </div>
  
 
