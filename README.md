@@ -115,20 +115,21 @@ Idea original intengrantes del grupo Téchene, autor de la herramienta y desplie
 ---
 Nuestro proyecto cuenta con la creación de una empresa de desarrollo de software e insfractructura de red.
 Este proyecto ocupa todo los aspectos tecnicos necesarios para creación y puesta en marcha de un producto de software, que incluye la parte tan importante como el desarrollo que es la insfrastructura de red y su seguiridad. 
-Nuestra Empresa es [Téchene](techne-tau.vercel.app), este sitio web fue creado con la tecnologia de [Astro](https://reflex.dev/), un marco de trabajo para frontend. 
+Nuestra Empresa es [Téchene](techne-tau.vercel.app), este sitio web fue creado con la tecnologia de [Astro](https://astro.build/), un marco de trabajo para frontend. 
 
 
 ## Licencia 
 ---
-i. La licencia esta herramientas es gratis para usos educativos.
-ii. No se puede utilizar con fines comerciales, en ese caso puede contactarse al autor y crear una version de pago
+* i. La licencia esta herramientas es gratis para usos educativos.
+* ii. No se puede utilizar con fines comerciales, en ese caso puede contactarse al autor y crear una version de pago
 
 ## Limitación de responsabilidades
 ---
 
 El ITS y los integrantes del grupo no será responsable, bajo circunstancia alguna, de daño ni indemnización, moral o patrimonial; directo o indirecto; accesorio o especial; o por vía de consecuencia, previsto o imprevisto, que pudiese surgir:
 
-i. Bajo cualquier teoría de responsabilidad, ya sea por contrato, infracción de derechos de propiedad intelectual, negligencia o bajo cualquier otra teoría; y/o
+* i. Bajo cualquier teoría de responsabilidad, ya sea por contrato, infracción de derechos de propiedad intelectual, negligencia o bajo cualquier otra teoría; y/o
 
-ii. A raíz del uso de la Herramienta Digital, incluyendo, pero sin limitación de potenciales defectos en la Herramienta Digital, o la pérdida o inexactitud de los datos de cualquier tipo. Lo anterior incluye los gastos o daños asociados a fallas de comunicación y/o fallas de funcionamiento de computadoras, vinculados con la utilización de la Herramienta Digital.
+* ii. A raíz del uso de la Herramienta Digital, incluyendo, pero sin limitación de potenciales defectos en la Herramienta Digital, o la pérdida o inexactitud de los datos de cualquier tipo. Lo anterior incluye los gastos o daños asociados a    
+      fallas de comunicación y/o fallas de funcionamiento de computadoras, vinculados con la utilización de la Herramienta Digital.
 
